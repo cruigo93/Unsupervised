@@ -1,0 +1,4 @@
+Log file created at: 2018/02/23 23:31:20
+Running on machine: cruigo-Compaq-CQ58-Notebook-PC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0223 23:31:20.421965 12535 c_interface.cc:59] DiskReadException :  File lestures.txt does not exist.
